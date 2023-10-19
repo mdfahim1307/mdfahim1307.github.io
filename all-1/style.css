@@ -1,0 +1,51 @@
+.next-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.next-page .div {
+  background-color: #ffffff;
+  width: 1280px;
+  height: 1920px;
+  position: relative;
+}
+
+.next-page .rectangle {
+  position: absolute;
+  width: 409px;
+  height: 601px;
+  top: 32px;
+  left: 16px;
+  object-fit: cover;
+}
+
+.next-page .img {
+  position: absolute;
+  width: 409px;
+  height: 601px;
+  top: 32px;
+  left: 435px;
+  object-fit: cover;
+}
+
+.next-page .rectangle-2 {
+  position: absolute;
+  width: 409px;
+  height: 601px;
+  top: 32px;
+  left: 854px;
+  object-fit: cover;
+}
+
+.next-page .rectangle-3 {
+  position: absolute;
+  width: 416px;
+  height: 79px;
+  top: 693px;
+  left: 458px;
+  background-color: #d9d9d9;
+  border-radius: 39.5px;
+}
